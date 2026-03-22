@@ -4,4 +4,9 @@ For sequence learning, a baseline RNN, along with LSTM and GRU variants, were ap
 
 Generative modeling was performed using a GAN to synthesize Fashion-MNIST images. The generator and discriminator were trained alternately, and outputs were saved periodically to track sample quality. Model collapse was observed occasionally and mitigated via learning rate adjustment and label smoothing. 
 
+How to Run The Code:
+1.Open Google Colab
+2.Go to runtime->change runtime->T4 GPU
+3.Type the code and run
+
  
